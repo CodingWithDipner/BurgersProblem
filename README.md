@@ -1,7 +1,7 @@
 # BurgersProblem
 
 # CODE 
-    /* package codechef; // don't place package name! */
+        /* package codechef; // don't place package name! */
     
     import java.util.*;
     import java.lang.*;
@@ -24,14 +24,15 @@
     		        System.out.println(x);
     		    }
     		    else if(x>y){
-    		        System.out.println(x);
+    		        System.out.println(y);
     		    }
     		    else{
-    		        System.out.println(y);
+    		        System.out.println(x);
     		    }
     		    
     		}
     	}
     }
+
 
 
