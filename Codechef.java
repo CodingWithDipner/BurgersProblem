@@ -21,10 +21,10 @@ class Codechef
 		        System.out.println(x);
 		    }
 		    else if(x>y){
-		        System.out.println(x);
+		        System.out.println(y);
 		    }
 		    else{
-		        System.out.println(y);
+		        System.out.println(x);
 		    }
 		    
 		}
